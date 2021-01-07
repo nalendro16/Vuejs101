@@ -10,6 +10,15 @@
     <div class="item-logos">
       <img class="logo" src="../assets/taylor.svg" alt="taylor logo" />
     </div>
+    <div class="item-logos">
+      <img class="logo" src="../assets/the_mako.svg" alt="the_mako logo" />
+    </div>
+    <div class="item-logos">
+      <img class="logo" src="../assets/zoom.svg" alt="zoom logo" />
+    </div>
+    <div class="item-logos">
+      <img class="logo" src="../assets/hoonigan.svg" alt="hoonigan logo" />
+    </div>
   </div>
 </template>
 
@@ -21,13 +30,14 @@ export default {
 
 <style scoped>
 .logos-wraper {
-  width: 70%;
+  width: 50%;
   overflow: hidden;
   margin: auto;
 }
 .item-logos {
   float: left;
-  margin: 0 70px 70px 0;
+  margin-right: 70px;
+  margin-bottom: 70px;
   width: 150px;
   height: 150px;
 }
@@ -37,5 +47,6 @@ export default {
 }
 .title-header {
   margin-bottom: 80px;
+  text-align: left;
 }
 </style>
