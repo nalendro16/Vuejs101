@@ -30,14 +30,14 @@ export default {
 
 <style scoped>
 .logos-wraper {
-  width: 50%;
+  width: 62%;
   overflow: hidden;
   margin: auto;
 }
 .item-logos {
   float: left;
-  margin-right: 70px;
-  margin-bottom: 70px;
+  margin-right: 50px;
+  margin-bottom: 50px;
   width: 150px;
   height: 150px;
 }
