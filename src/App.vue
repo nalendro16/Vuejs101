@@ -1,17 +1,11 @@
 <template>
-  <div id="app">
-    <Logos />
-  </div>
+  <div id="app"></div>
 </template>
 
 <script>
-import Logos from './components/Logos.vue'
-
 export default {
   name: 'App',
-  components: {
-    Logos,
-  },
+  components: {},
 }
 
 Logos
