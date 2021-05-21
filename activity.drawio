@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T10:29:11.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.6.13" etag="J35GmuR9zpt3aKtXrAfo" type="github"><diagram id="ivFHiRwfmGSr_E7d7q-H">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-21T10:46:00.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cB-aJlYAcjRs-H79K25j" version="14.6.13" type="github">
+  <diagram id="ivFHiRwfmGSr_E7d7q-H" name="Page-1">
+    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WHxuEngqQpBnkToe90Vg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="200" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="90" width="200" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="90" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="WHxuEngqQpBnkToe90Vg-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-6" value="Koneksi alat ke sumber tegangan" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="WHxuEngqQpBnkToe90Vg-9" target="WHxuEngqQpBnkToe90Vg-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;glass=0;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="315" y="140" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="WHxuEngqQpBnkToe90Vg-16" target="WHxuEngqQpBnkToe90Vg-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-16" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;sensor LDR dan sensor hujan mendeteksi&lt;/span&gt;&lt;br style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;cahaya dan hujan&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;glass=0;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="260" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#000000;" edge="1" parent="1" source="WHxuEngqQpBnkToe90Vg-17" target="WHxuEngqQpBnkToe90Vg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-17" value="LDR dan sensor Hujan membaca data" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="470" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-19" value="rak keluar" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-29" value="" style="endArrow=classic;html=1;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="1" source="WHxuEngqQpBnkToe90Vg-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="310" as="sourcePoint" />
+            <mxPoint x="530" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="340" />
+              <mxPoint x="440" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-30" value="Y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="530" y="355" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WHxuEngqQpBnkToe90Vg-31" value="N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
