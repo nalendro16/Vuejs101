@@ -1,16 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T11:00:37.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="V3JMBlsEE0Zm8y4pQinf" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T11:02:39.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0Ldy59Fu5R2GyMgF2KJ1" version="14.6.13" type="github">
   <diagram id="ABAjfgM-PkcEst5m_lNS" name="Page-1">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-2" value="Respond Arduino" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="620" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-2" value="Respond Arduino" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="630" y="100" width="50" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-3" value="Sistem terkoneksi tegangan" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-3" value="Sistem terkoneksi tegangan" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="320" y="100" width="50" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-5" value="Sensor membaca suhu" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-5" value="Sensor membaca suhu" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="490" y="100" width="40" height="310" as="geometry" />
         </mxCell>
         <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-7" value="User" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="1">
@@ -53,6 +56,9 @@
             <mxPoint x="450" y="240" as="sourcePoint" />
             <mxPoint x="370" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TYUY7jg5Jtpk5KwOoAZZ-20" value="Sequence Diagram" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
