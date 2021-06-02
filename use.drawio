@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T11:58:53.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2hEN0VkQxdWr0sd4lU8S" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T21:36:40.399Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7WSPJ5YyWD6KUjIFmgt_" version="14.7.4" type="github">
   <diagram id="c0w3LG_GEWhb0oFGmLNv" name="Page-1">
-    <mxGraphModel dx="1021" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qmF7-Bl5wFrc3c5ChrHK-14" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="190" y="40" width="490" height="530" as="geometry" />
+          <mxGeometry x="190" y="-60" width="480" height="620" as="geometry" />
         </mxCell>
         <mxCell id="qmF7-Bl5wFrc3c5ChrHK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="320" y="70" width="250" height="480" as="geometry" />
+          <mxGeometry x="320" y="70" width="340" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="qmF7-Bl5wFrc3c5ChrHK-1" value="Menghubungkan alat ke sumber tegangan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="qmF7-Bl5wFrc3c5ChrHK-1" value="Menghubungkan alat ke module bluetooth" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qmF7-Bl5wFrc3c5ChrHK-2" value="mengirim data sensor" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="qmF7-Bl5wFrc3c5ChrHK-2" value="mengirim data sensor melalui Bluetooth" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="390" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qmF7-Bl5wFrc3c5ChrHK-3" value="Membaca data sensor melalui LCD" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="1" vertex="1">
@@ -44,22 +44,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qmF7-Bl5wFrc3c5ChrHK-12" value="&lt;font style=&quot;font-size: 13px&quot;&gt;use case diagram&amp;nbsp;&lt;/font&gt;&lt;h1 align=&quot;center&quot; style=&quot;margin-top: 0cm ; line-height: 150% ; font-size: 13px&quot;&gt;&lt;span style=&quot;line-height: 150%&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;SISTEM OTOMATISASI ALAT&lt;br&gt;PENJEMUR IKAN ASIN BERBASIS ARDUINO&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="320" y="70" width="250" height="110" as="geometry" />
+          <mxGeometry x="320" y="-50" width="340" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="zFQN5-aGdfGuJyuEO0Wj-1" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="qmF7-Bl5wFrc3c5ChrHK-3">
+        <mxCell id="zFQN5-aGdfGuJyuEO0Wj-1" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="qmF7-Bl5wFrc3c5ChrHK-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="320" as="sourcePoint" />
             <mxPoint x="440" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFQN5-aGdfGuJyuEO0Wj-2" value="Membuka rak&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="zFQN5-aGdfGuJyuEO0Wj-2" value="Membuka rak&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="390" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zFQN5-aGdfGuJyuEO0Wj-3" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zFQN5-aGdfGuJyuEO0Wj-2">
+        <mxCell id="zFQN5-aGdfGuJyuEO0Wj-3" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="zFQN5-aGdfGuJyuEO0Wj-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="610" y="320" as="sourcePoint" />
             <mxPoint x="520" y="410" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="w2VeEJj2tJUS2bKLxk6b-1" value="Menghubungkan alat ke sumber tegangan" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
